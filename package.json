@@ -1,0 +1,22 @@
+{
+  "name": "node-import-export",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "import-export": "^1.0.1"
+  },
+  "description": "NodeJS import-export wrapper so you can run ES6 without having to wrap your modules",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viewsdx/node-import-export.git"
+  },
+  "bugs": {
+    "url": "https://github.com/viewsdx/node-import-export/issues"
+  },
+  "homepage": "https://github.com/viewsdx/node-import-export#readme",
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "bin": {
+    "node-import-export": "./index.js"
+  }
+}
